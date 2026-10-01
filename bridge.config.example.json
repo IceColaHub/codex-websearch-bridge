@@ -1,0 +1,9 @@
+{
+  "upstream": "https://your-relay.example",
+  "host": "127.0.0.1",
+  "port": 8787,
+  "model": "gpt-6.1-sol",
+  "verbose": true,
+  "allow_remote": false,
+  "log": ""
+}
